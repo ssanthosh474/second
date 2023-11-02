@@ -1,0 +1,6 @@
+ways to move files to new repository 
+ remote my repository -> git remote add origin link-of-origin
+ to check branch -> git baranch
+ to change branch name -> git baranch -m name
+ to add all changes -> git add .
+ 
