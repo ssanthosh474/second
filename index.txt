@@ -8,3 +8,4 @@ ways to move files to new repository
 to check the  difference between two branch-> git diff branch2
 to merge two branch -> git merge name-of-sub-branch
 to create a new branch -> git branch name-of-new-branch
+pull request -> its is used when we dont have access to merge our branch to some other  branch.
