@@ -5,4 +5,6 @@ ways to move files to new repository
  to add all changes -> git add .
  to list all branches -> git branch -add
  to change a branch -> git checkout branchname
- 
+to check the  difference between two branch-> git diff branch2
+to merge two branch -> git merge name-of-sub-branch
+to create a new branch -> git branch name-of-new-branch
