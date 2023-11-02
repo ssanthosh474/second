@@ -3,4 +3,6 @@ ways to move files to new repository
  to check branch -> git baranch
  to change branch name -> git baranch -m name
  to add all changes -> git add .
+ to list all branches -> git branch -add
+ to change a branch -> git checkout branchname
  
